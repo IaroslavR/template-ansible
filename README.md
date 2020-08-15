@@ -1,2 +1,2 @@
-# template-base
-Minimal GitHub repo template
+# template-ansible
+Minimal Ansible GitHub repo template.
